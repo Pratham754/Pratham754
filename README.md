@@ -1,6 +1,6 @@
 # Personal-Tapestry
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Carter+One&size=20&pause=1000&color=00F7D5&background=FFFFFF00&random=false&width=600&height=75&lines=Enter+the+curated+sanctuary+of+a+mindful+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Carter+One&size=20&pause=1000&color=00F7D5&background=FFFFFF00&random=false&width=600&height=50&lines=Enter+the+curated+sanctuary+of+a+mindful+enthusiast)](https://git.io/typing-svg)
 
 ---
 
